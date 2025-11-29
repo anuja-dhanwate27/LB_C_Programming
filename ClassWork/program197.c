@@ -14,7 +14,7 @@ int main()
     }
     else
     {
-        printf("File succesfully created \n");
+        printf("File succesfully created with fd : %d \n",fd);
     }
     return 0;
 
